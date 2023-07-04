@@ -135,4 +135,4 @@ menu:
                 - color: 'var(--text-light-color)'
             tap_action:
               action: navigate
-              navigation_path: /config/dashboard
+              navigation_path: /profile
